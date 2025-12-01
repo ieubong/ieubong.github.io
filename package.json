@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://ieubong.github.io/dist",
+  "homepage": "https://ieubong.github.io/",
   "dependencies": {
     "canvas-confetti": "^1.9.4",
     "gh-pages": "^6.3.0",
