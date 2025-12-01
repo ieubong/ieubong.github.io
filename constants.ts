@@ -140,7 +140,7 @@ export const MEMORY_DATA: MemoryLocation[] = [
       "detail": [
         {
           "date": "18:44 04/12/2024",
-          "img": "https://picsum.photos/400/300?random=1", 
+          "img": "./images/2024122x-vinacomin.jpg", 
           "rating": 5,
           "mood": "romantic",
           "desc": "Mình mới lên HN và tới văn phòng làm được 2 ngày. Ở HN mình có cảm giác lạ lẫm nhưng lại rất quen thuộc. Tháng 12 này đang là mùa đông, trời rất là lạnh luôn. Nhưng mà hôm nay mình được lần đầu chở đi cháy phố. Nói là tráy thế thui chứ thực ra là được chở về nhà. À còn một điều quan trọng là mình được tặng một món quà rất là dễ thương nữaa. Mình sẽ gìn giữ món quà này thật cẩn thận."
